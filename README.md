@@ -85,20 +85,30 @@ For a more detailed description of the software setup, including installation in
 
 ## Assembly
 
+As mentioned earlier, most of the machine was already constructed. Therefore, this section is more aptly described as disassembly and small assembly, since the addition of new parts was limited to the peristaltic pumps, Raspberry Pi Pico, relay module, cabling, and hoses. During the assembly process, continuous improvements were made to both the construction and functionality of the machine, enhancing its overall performance.
 
 
 ![Cocktail Maker Image](imagesAndVideos/IMG_7726.jpeg)
 
-![Cocktail Maker Image](imagesAndVideos/IMG_7727.MOV)
+https://github.com/lukasznowarkiewicz/cocktailMakerRev0/assets/82212257/d822bf01-34a0-48d3-bc5a-efc42883cd6e
+
 
 
 
 ## Final result
 
+# Final Result
+
+I'm very happy with the final result. The machine works basically flawlessly, meeting all the expectations I had for it. It proved to be a great attraction during the party, functioning without any significant issues and contributing significantly to the event's success. The reliability and performance of the machine throughout the party are testaments to the careful planning, assembly, and improvements made during its development.
+
+This project not only served its intended purpose but also provided valuable learning experiences and a sense of accomplishment. Seeing it operate smoothly and become a focal point of the celebration was incredibly rewarding.
+
+
 ![Cocktail Maker Image](imagesAndVideos/IMG_7754.jpeg)
 
 ![Cocktail Maker Image](imagesAndVideos/IMG_7755.jpeg)
 
-![Cocktail Maker Image](imagesAndVideos/IMG_7731.MOV)
+
+https://github.com/lukasznowarkiewicz/cocktailMakerRev0/assets/82212257/c8ed2620-16a5-42bc-933f-8129f1e08f7c
 
 
