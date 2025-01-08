@@ -1,4 +1,4 @@
-# cocktailMakerRev0
+# cocktailMaker
 
 ![Cocktail Maker Image](imagesAndVideos/cocktailMaker_rev_0_v4_2024-Feb-27_06-21-28PM-000_CustomizedView3338375309.png)
 
